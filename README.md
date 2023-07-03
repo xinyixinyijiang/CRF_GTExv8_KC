@@ -1,2 +1,5 @@
 # CRF_GTEXV8_KC
-Colocalisation of corneal resistance factor with e and sQTL from GTExv8 sheds new light on Keratoconus risk.
+This folder is for performing:
+1) colocalization of corneal resistance factor GWAS with e and sQTL from GTExv8
+2) colocalization of corneal resistance factor GWAS with Keratoconus GWAS
+3) enrichment of CRF e/sGenes in Human Adult Cornea scRNAseq

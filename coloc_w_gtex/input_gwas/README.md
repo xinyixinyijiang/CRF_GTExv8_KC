@@ -1,3 +1,3 @@
 # gwas_inputgen.py
 
-It generates the finemapped gwas (frpm dap-g) input to fastenloc, can be applied to any files with snpid, csid and pip columns.
+`./gwas_inputgen.py` generates the fine-mapped GWAS (frpm DAP-G) input to fastenloc, can be applied to any files with snpid, csid and pip columns.

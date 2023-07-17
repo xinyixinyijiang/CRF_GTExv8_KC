@@ -6,6 +6,9 @@
 #$ -l h_rt=10:00:00
 #$ -N array_crf_gtex
 
+# This script runs fastenloc specifically on EDDIE (UoE HPC cluster).
+# Do NOT run this script on your local machine.
+
 DATAFILE=array_crf_gtex_parameters.txt
 TSULIST=../data/gtex/tissues.txt  #Path to the tissuelist file
 NTSU=49 #number of tissues in TSULIST

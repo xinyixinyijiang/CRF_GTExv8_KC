@@ -15,7 +15,7 @@ Multiple public datasets are used in the analysis including:
 
 | Data          | Link          | Reference    |
 | ------------- | ------------- | ------------- |
-| CRF GWAS summary statistics  | [https://doi.org/10.1038/s42003-020-01497-w](https://doi.org/10.1038/s42003-020-01497-w) | [1]
+| CRF GWAS summary statistics  | [GWASCatalog Study GCST90308682](http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90308001-GCST90309000/GCST90308682/) | [1]
 | CRF GWAS fine-mapping results using FINEMAP  | Supplementary Data 7 of the referred paper | [1]
 | fine-mapping results using DAP-G for cis-e/sQTLs in all v8 GTEx tissues  | [https://zenodo.org/record/3517189#.Y-0UwcfP2Ul](https://zenodo.org/record/3517189#.Y-0UwcfP2Ul)  | [2]
 | keratoconus GWAS summary statistics | Supplementary Data 15 of the referred paper | [3] |
@@ -28,4 +28,4 @@ Multiple public datasets are used in the analysis including:
 [4] Collin, J., Queen, R., Zerti, D. et al. A single cell atlas of human cornea that defines its development, limbal progenitor cells and their interactions with the immune cells. *Ocul Surf* 21, 279 (2021). [https://doi: 10.1016/J.JTOS.2021.03.010](https://doi.org/10.1016/J.JTOS.2021.03.010)
 
 # Citation
-[***Under Review***]
+Jiang X, Boutin T and Vitart V (2023) Colocalization of corneal resistance factor GWAS loci with GTEx e/sQTLs highlights plausible candidate causal genes for keratoconus postnatal corneal stroma weakening. Front. Genet. 14:1171217. doi: 10.3389/fgene.2023.1171217

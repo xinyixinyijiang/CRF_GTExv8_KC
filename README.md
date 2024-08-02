@@ -9,13 +9,15 @@ This repo includes:
 
 Please see the above directories for details of the methods and scripts.
 
+Data files required to run the codes, located in the `data/` folder, are available on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.13175661).
+
 # Datasets used
 
 Multiple public datasets are used in the analysis including:
 
 | Data          | Link          | Reference    |
 | ------------- | ------------- | ------------- |
-| CRF GWAS summary statistics  | [GWASCatalog Study GCST90308682](http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90308001-GCST90309000/GCST90308682/) | [1]
+| CRF GWAS summary statistics  | [GWASCatalog Study GCST90308682](http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90308001-GCST90309000/GCST90308682/) or [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10371444)| [1]
 | CRF GWAS fine-mapping results using FINEMAP  | Supplementary Data 7 of the referred paper | [1]
 | fine-mapping results using DAP-G for cis-e/sQTLs in all v8 GTEx tissues  | [https://zenodo.org/record/3517189#.Y-0UwcfP2Ul](https://zenodo.org/record/3517189#.Y-0UwcfP2Ul)  | [2]
 | keratoconus GWAS summary statistics | Supplementary Data 15 of the referred paper | [3] |
